@@ -7,9 +7,9 @@ public:
         ans1.push_back(nums[0]);
         ans2.push_back(nums[1]);
         for(int i=2;i<nums.size();i++){
-            int m = ans1.size()-1;
-            int n = ans2.size()-1;
-            if(ans1[m]>ans2[n]){
+            // int m = ans1.size()-1;
+            // int n = ans2.size()-1;
+            if(ans1[ans1.size()-1]>ans2[ans2.size()-1]){
                 ans1.push_back(nums[i]);
             }
             else{
