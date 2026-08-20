@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/MehulGupta03/leetcode_practice/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MehulGupta03/leetcode_practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/MehulGupta03/leetcode_practice/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/MehulGupta03/leetcode_practice/tree/master/0031-next-permutation) |
 | [0169-majority-element](https://github.com/MehulGupta03/leetcode_practice/tree/master/0169-majority-element) |
 | [0875-koko-eating-bananas](https://github.com/MehulGupta03/leetcode_practice/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/MehulGupta03/leetcode_practice/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/MehulGupta03/leetcode_practice/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MehulGupta03/leetcode_practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/MehulGupta03/leetcode_practice/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/MehulGupta03/leetcode_practice/tree/master/0031-next-permutation) |
 ## Greedy
 |  |
 | ------- |
