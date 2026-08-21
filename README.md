@@ -75,4 +75,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/MehulGupta03/leetcode_practice/tree/master/0234-palindrome-linked-list) |
+| [1021-remove-outermost-parentheses](https://github.com/MehulGupta03/leetcode_practice/tree/master/1021-remove-outermost-parentheses) |
+## String
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/MehulGupta03/leetcode_practice/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/MehulGupta03/leetcode_practice/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
