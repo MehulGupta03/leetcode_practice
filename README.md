@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/MehulGupta03/leetcode_practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/MehulGupta03/leetcode_practice/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/MehulGupta03/leetcode_practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/MehulGupta03/leetcode_practice/tree/master/0229-majority-element-ii) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MehulGupta03/leetcode_practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/MehulGupta03/leetcode_practice/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/MehulGupta03/leetcode_practice/tree/master/0031-next-permutation) |
+| [0141-linked-list-cycle](https://github.com/MehulGupta03/leetcode_practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/MehulGupta03/leetcode_practice/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/MehulGupta03/leetcode_practice/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/MehulGupta03/leetcode_practice/tree/master/0876-middle-of-the-linked-list) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/MehulGupta03/leetcode_practice/tree/master/0021-merge-two-sorted-lists) |
+| [0141-linked-list-cycle](https://github.com/MehulGupta03/leetcode_practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/MehulGupta03/leetcode_practice/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/MehulGupta03/leetcode_practice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/MehulGupta03/leetcode_practice/tree/master/0234-palindrome-linked-list) |
@@ -98,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/MehulGupta03/leetcode_practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/MehulGupta03/leetcode_practice/tree/master/0142-linked-list-cycle-ii) |
 ## Math
 |  |
