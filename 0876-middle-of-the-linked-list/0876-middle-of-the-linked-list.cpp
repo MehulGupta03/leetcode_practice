@@ -14,17 +14,12 @@ public:
         if(head==NULL || head->next==NULL){
             return head;
         }
-        ListNode* h = head;
-        int count = 0;
-        while(h!=NULL){
-            h=h->next;
-            count++;
+        ListNode* slow = head;
+        ListNode* fast = head;
+        while(fast!=NULL && fast->next!=NULL){
+            slow=slow->next;
+            fast=fast->next->next;
         }
-        int mid = count/2;
-        h=head;
-        for(int i=0;i<mid;i++){
-            h=h->next;
-        }
-        return h;
+        return slow;
     }
 };
