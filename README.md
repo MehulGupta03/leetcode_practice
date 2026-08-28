@@ -112,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/MehulGupta03/leetcode_practice/tree/master/0048-rotate-image) |
+## Database
+|  |
+| ------- |
+| [1068-product-sales-analysis-i](https://github.com/MehulGupta03/leetcode_practice/tree/master/1068-product-sales-analysis-i) |
 <!---LeetCode Topics End-->
