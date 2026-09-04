@@ -90,15 +90,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/MehulGupta03/leetcode_practice/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/MehulGupta03/leetcode_practice/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/MehulGupta03/leetcode_practice/tree/master/1021-remove-outermost-parentheses) |
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/MehulGupta03/leetcode_practice/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/MehulGupta03/leetcode_practice/tree/master/1021-remove-outermost-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/MehulGupta03/leetcode_practice/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/MehulGupta03/leetcode_practice/tree/master/1021-remove-outermost-parentheses) |
 ## Floyd's Cycle Finding Algorithm
 |  |
