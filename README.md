@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/MehulGupta03/leetcode_practice/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/MehulGupta03/leetcode_practice/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/MehulGupta03/leetcode_practice/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/MehulGupta03/leetcode_practice/tree/master/1021-remove-outermost-parentheses) |
 ## String
@@ -131,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/MehulGupta03/leetcode_practice/tree/master/3903-smallest-stable-index-i) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/MehulGupta03/leetcode_practice/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
