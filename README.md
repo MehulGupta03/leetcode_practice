@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/MehulGupta03/leetcode_practice/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/MehulGupta03/leetcode_practice/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/MehulGupta03/leetcode_practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/MehulGupta03/leetcode_practice/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/MehulGupta03/leetcode_practice/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/MehulGupta03/leetcode_practice/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/MehulGupta03/leetcode_practice/tree/master/3903-smallest-stable-index-i) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/MehulGupta03/leetcode_practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/MehulGupta03/leetcode_practice/tree/master/0229-majority-element-ii) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/MehulGupta03/leetcode_practice/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/MehulGupta03/leetcode_practice/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/MehulGupta03/leetcode_practice/tree/master/0011-container-with-most-water) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/MehulGupta03/leetcode_practice/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/MehulGupta03/leetcode_practice/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Divide and Conquer
 |  |
 | ------- |
