@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/MehulGupta03/leetcode_practice/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/MehulGupta03/leetcode_practice/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/MehulGupta03/leetcode_practice/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/MehulGupta03/leetcode_practice/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/MehulGupta03/leetcode_practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/MehulGupta03/leetcode_practice/tree/master/0229-majority-element-ii) |
 | [0496-next-greater-element-i](https://github.com/MehulGupta03/leetcode_practice/tree/master/0496-next-greater-element-i) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/MehulGupta03/leetcode_practice/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/MehulGupta03/leetcode_practice/tree/master/0066-plus-one) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/MehulGupta03/leetcode_practice/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/MehulGupta03/leetcode_practice/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/MehulGupta03/leetcode_practice/tree/master/3875-construct-uniform-parity-array-i) |
