@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/MehulGupta03/leetcode_practice/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/MehulGupta03/leetcode_practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/MehulGupta03/leetcode_practice/tree/master/0229-majority-element-ii) |
+| [0414-third-maximum-number](https://github.com/MehulGupta03/leetcode_practice/tree/master/0414-third-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/MehulGupta03/leetcode_practice/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/MehulGupta03/leetcode_practice/tree/master/0682-baseball-game) |
 | [0875-koko-eating-bananas](https://github.com/MehulGupta03/leetcode_practice/tree/master/0875-koko-eating-bananas) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/MehulGupta03/leetcode_practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/MehulGupta03/leetcode_practice/tree/master/0229-majority-element-ii) |
+| [0414-third-maximum-number](https://github.com/MehulGupta03/leetcode_practice/tree/master/0414-third-maximum-number) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/MehulGupta03/leetcode_practice/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/MehulGupta03/leetcode_practice/tree/master/3731-find-missing-elements) |
 ## Two Pointers
