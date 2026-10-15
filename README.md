@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/MehulGupta03/leetcode_practice/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/MehulGupta03/leetcode_practice/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/MehulGupta03/leetcode_practice/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/MehulGupta03/leetcode_practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/MehulGupta03/leetcode_practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/MehulGupta03/leetcode_practice/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/MehulGupta03/leetcode_practice/tree/master/3731-find-missing-elements) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/MehulGupta03/leetcode_practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/MehulGupta03/leetcode_practice/tree/master/0229-majority-element-ii) |
 | [0496-next-greater-element-i](https://github.com/MehulGupta03/leetcode_practice/tree/master/0496-next-greater-element-i) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/MehulGupta03/leetcode_practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3731-find-missing-elements](https://github.com/MehulGupta03/leetcode_practice/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -171,4 +173,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/MehulGupta03/leetcode_practice/tree/master/0496-next-greater-element-i) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/MehulGupta03/leetcode_practice/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/MehulGupta03/leetcode_practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/MehulGupta03/leetcode_practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
