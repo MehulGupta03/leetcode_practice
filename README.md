@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/MehulGupta03/leetcode_practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/MehulGupta03/leetcode_practice/tree/master/0414-third-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/MehulGupta03/leetcode_practice/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/MehulGupta03/leetcode_practice/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/MehulGupta03/leetcode_practice/tree/master/0682-baseball-game) |
 | [0875-koko-eating-bananas](https://github.com/MehulGupta03/leetcode_practice/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/MehulGupta03/leetcode_practice/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/MehulGupta03/leetcode_practice/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/MehulGupta03/leetcode_practice/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/MehulGupta03/leetcode_practice/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/MehulGupta03/leetcode_practice/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/MehulGupta03/leetcode_practice/tree/master/0682-baseball-game) |
 | [1021-remove-outermost-parentheses](https://github.com/MehulGupta03/leetcode_practice/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/MehulGupta03/leetcode_practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/MehulGupta03/leetcode_practice/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/MehulGupta03/leetcode_practice/tree/master/0503-next-greater-element-ii) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/MehulGupta03/leetcode_practice/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Binary Indexed Tree
 |  |
