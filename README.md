@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/MehulGupta03/leetcode_practice/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/MehulGupta03/leetcode_practice/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/MehulGupta03/leetcode_practice/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [2073-time-needed-to-buy-tickets](https://github.com/MehulGupta03/leetcode_practice/tree/master/2073-time-needed-to-buy-tickets) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/MehulGupta03/leetcode_practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/MehulGupta03/leetcode_practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/MehulGupta03/leetcode_practice/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/MehulGupta03/leetcode_practice/tree/master/0682-baseball-game) |
+| [2073-time-needed-to-buy-tickets](https://github.com/MehulGupta03/leetcode_practice/tree/master/2073-time-needed-to-buy-tickets) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/MehulGupta03/leetcode_practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Linked List
 |  |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/MehulGupta03/leetcode_practice/tree/master/0387-first-unique-character-in-a-string) |
+| [2073-time-needed-to-buy-tickets](https://github.com/MehulGupta03/leetcode_practice/tree/master/2073-time-needed-to-buy-tickets) |
 ## Tree
 |  |
 | ------- |
