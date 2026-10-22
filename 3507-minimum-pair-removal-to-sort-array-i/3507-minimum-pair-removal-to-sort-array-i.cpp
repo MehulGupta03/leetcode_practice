@@ -23,7 +23,7 @@ public:
                 idx = i;
             }
         }
-        nums[idx]+=nums[idx+1];
+        nums[idx]=minsum;
         nums.erase(nums.begin()+idx+1);
         count++;
         }  
