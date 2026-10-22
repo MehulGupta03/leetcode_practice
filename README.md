@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/MehulGupta03/leetcode_practice/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/MehulGupta03/leetcode_practice/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/MehulGupta03/leetcode_practice/tree/master/0876-middle-of-the-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/MehulGupta03/leetcode_practice/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/MehulGupta03/leetcode_practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/MehulGupta03/leetcode_practice/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/MehulGupta03/leetcode_practice/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/MehulGupta03/leetcode_practice/tree/master/0066-plus-one) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/MehulGupta03/leetcode_practice/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/MehulGupta03/leetcode_practice/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/MehulGupta03/leetcode_practice/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/MehulGupta03/leetcode_practice/tree/master/3875-construct-uniform-parity-array-i) |
