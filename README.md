@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/MehulGupta03/leetcode_practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/MehulGupta03/leetcode_practice/tree/master/2000-reverse-prefix-of-word) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/MehulGupta03/leetcode_practice/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
+| [2409-count-days-spent-together](https://github.com/MehulGupta03/leetcode_practice/tree/master/2409-count-days-spent-together) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/MehulGupta03/leetcode_practice/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/MehulGupta03/leetcode_practice/tree/master/0066-plus-one) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/MehulGupta03/leetcode_practice/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [2409-count-days-spent-together](https://github.com/MehulGupta03/leetcode_practice/tree/master/2409-count-days-spent-together) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/MehulGupta03/leetcode_practice/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/MehulGupta03/leetcode_practice/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/MehulGupta03/leetcode_practice/tree/master/3875-construct-uniform-parity-array-i) |
