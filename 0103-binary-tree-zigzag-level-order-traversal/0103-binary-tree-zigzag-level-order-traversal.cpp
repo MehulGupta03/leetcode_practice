@@ -18,7 +18,7 @@ public:
         }
         queue<TreeNode*> q;
         q.push(root);
-        bool flag=true;
+        bool flag = true;
         while(!q.empty()){
             int size=q.size();
             vector<int> level;
@@ -34,7 +34,7 @@ public:
                 }
             }
             if(!flag){
-                reverse(level.begin(), level.end());
+                reverse(level.begin(),level.end());
             }
             ans.push_back(level);
             flag=!flag;
