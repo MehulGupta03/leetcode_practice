@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/MehulGupta03/leetcode_practice/tree/master/0414-third-maximum-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/MehulGupta03/leetcode_practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/MehulGupta03/leetcode_practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0485-max-consecutive-ones](https://github.com/MehulGupta03/leetcode_practice/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/MehulGupta03/leetcode_practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/MehulGupta03/leetcode_practice/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/MehulGupta03/leetcode_practice/tree/master/0560-subarray-sum-equals-k) |
