@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/MehulGupta03/leetcode_practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/MehulGupta03/leetcode_practice/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/MehulGupta03/leetcode_practice/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/MehulGupta03/leetcode_practice/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/MehulGupta03/leetcode_practice/tree/master/0682-baseball-game) |
 | [0875-koko-eating-bananas](https://github.com/MehulGupta03/leetcode_practice/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/MehulGupta03/leetcode_practice/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/MehulGupta03/leetcode_practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/MehulGupta03/leetcode_practice/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/MehulGupta03/leetcode_practice/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/MehulGupta03/leetcode_practice/tree/master/0645-set-mismatch) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/MehulGupta03/leetcode_practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/MehulGupta03/leetcode_practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3731-find-missing-elements](https://github.com/MehulGupta03/leetcode_practice/tree/master/3731-find-missing-elements) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/MehulGupta03/leetcode_practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/MehulGupta03/leetcode_practice/tree/master/0414-third-maximum-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/MehulGupta03/leetcode_practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0645-set-mismatch](https://github.com/MehulGupta03/leetcode_practice/tree/master/0645-set-mismatch) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/MehulGupta03/leetcode_practice/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/MehulGupta03/leetcode_practice/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -223,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0461-hamming-distance](https://github.com/MehulGupta03/leetcode_practice/tree/master/0461-hamming-distance) |
+| [0645-set-mismatch](https://github.com/MehulGupta03/leetcode_practice/tree/master/0645-set-mismatch) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/MehulGupta03/leetcode_practice/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Prefix Sum
 |  |
