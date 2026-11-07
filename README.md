@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/MehulGupta03/leetcode_practice/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/MehulGupta03/leetcode_practice/tree/master/0682-baseball-game) |
 | [1441-build-an-array-with-stack-operations](https://github.com/MehulGupta03/leetcode_practice/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/MehulGupta03/leetcode_practice/tree/master/1929-concatenation-of-array) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/MehulGupta03/leetcode_practice/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/MehulGupta03/leetcode_practice/tree/master/0058-length-of-last-word) |
 | [0387-first-unique-character-in-a-string](https://github.com/MehulGupta03/leetcode_practice/tree/master/0387-first-unique-character-in-a-string) |
+| [0412-fizz-buzz](https://github.com/MehulGupta03/leetcode_practice/tree/master/0412-fizz-buzz) |
 | [1021-remove-outermost-parentheses](https://github.com/MehulGupta03/leetcode_practice/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/MehulGupta03/leetcode_practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/MehulGupta03/leetcode_practice/tree/master/1544-make-the-string-great) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/MehulGupta03/leetcode_practice/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/MehulGupta03/leetcode_practice/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/MehulGupta03/leetcode_practice/tree/master/0066-plus-one) |
+| [0412-fizz-buzz](https://github.com/MehulGupta03/leetcode_practice/tree/master/0412-fizz-buzz) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/MehulGupta03/leetcode_practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/MehulGupta03/leetcode_practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/MehulGupta03/leetcode_practice/tree/master/0509-fibonacci-number) |
