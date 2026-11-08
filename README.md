@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/MehulGupta03/leetcode_practice/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/MehulGupta03/leetcode_practice/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/MehulGupta03/leetcode_practice/tree/master/0682-baseball-game) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/MehulGupta03/leetcode_practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/MehulGupta03/leetcode_practice/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/MehulGupta03/leetcode_practice/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MehulGupta03/leetcode_practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MehulGupta03/leetcode_practice/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/MehulGupta03/leetcode_practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/MehulGupta03/leetcode_practice/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/MehulGupta03/leetcode_practice/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/MehulGupta03/leetcode_practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -357,4 +359,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MehulGupta03/leetcode_practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/MehulGupta03/leetcode_practice/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
