@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/MehulGupta03/leetcode_practice/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MehulGupta03/leetcode_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/MehulGupta03/leetcode_practice/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/MehulGupta03/leetcode_practice/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/MehulGupta03/leetcode_practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/MehulGupta03/leetcode_practice/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/MehulGupta03/leetcode_practice/tree/master/0229-majority-element-ii) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/MehulGupta03/leetcode_practice/tree/master/0136-single-number) |
 | [0461-hamming-distance](https://github.com/MehulGupta03/leetcode_practice/tree/master/0461-hamming-distance) |
 | [0645-set-mismatch](https://github.com/MehulGupta03/leetcode_practice/tree/master/0645-set-mismatch) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/MehulGupta03/leetcode_practice/tree/master/2220-minimum-bit-flips-to-convert-number) |
